@@ -55,3 +55,6 @@
 I was born a **Full Stack Developer**, always passionate about both backend and frontend technologies. Over the years, I have worked across the **entire development stack**, but in my current role at **Zumbat Hub**, I am focusing more on frontend development while shifting towards **app development** as well.  
 
 My ambition is to become a **complete developer**, covering the full spectrum of software development—from **backend to frontend, web to mobile apps, and even into AI**. This is why this year, I am embarking on an **AI Roadmap**, which I plan to complete by the end of the year. **Exciting times ahead! 🚀**
+
+🌐 Explore the weirdest corners of the internet at [weirdinternet.net](https://weirdinternet.net)
+
