@@ -1,7 +1,7 @@
 # Hi there! I'm Francesco! 👋🏻
 💻 Full-stack & mobile developer currently based in Paris 🇫🇷  
-💼 Employed at **Zumbat Hub**, where I build web and native apps end to end 🚀  
-🤖 AI tools (Pi.dev, Claude) are part of my daily workflow 👉 I write the spec, review the code, and own what ships 🧠  
+💼 Employed at **Zumbat Hub**, where I build web and native apps end to end  
+🤖 AI tools (Pi.dev, Claude) are part of my daily workflow. I write the spec, review the code, and own what ships  
 🔗 Connect with me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francesco-saponaro87/)  
 ---
 ## 🛠️ Tech Stack  
@@ -35,14 +35,7 @@
 ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)  
----
-## 💻 GitHub Stats and Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=francesco-saponaro&color=2F6690&style=for-the-badge)  
-![Francesco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=francesco-saponaro&show_icons=true&theme=radical&cache_seconds=86400)  
----
-## 📊 Most Used Languages  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=francesco-saponaro&layout=compact&theme=radical&cache_seconds=86400)  
----
+
 ## 👨‍💻 About Me  
 Before code, I spent 15 years running hospitality businesses — so I think about products from the **customer's side** first. Today I work across the **entire stack** at **Zumbat Hub**: I recently rebuilt our flagship mobile app from the ground up with **Expo / React Native**, and the rest of my time goes into **Next.js** frontends and **Node.js / SQL** backends.  
 I like owning the full lifecycle of a product — from the database structure to the final interface. Outside of work I build and launch my own apps, some live on the **App Store** and **Google Play**.
